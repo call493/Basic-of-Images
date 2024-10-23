@@ -1,4 +1,4 @@
-# Basics-Of-Images-Simplified
+# Basics Of Images Simplified
 Welcome to the Basics of Images Simplified repository! This project is an introduction to working with images using Python, focusing on essential operations like reading, displaying, and manipulating images. Whether you're new to image processing or looking to brush up on the basics, this notebook provides a straightforward starting point.
 
 Repository Overview
